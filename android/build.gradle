@@ -2,6 +2,7 @@ apply plugin: 'com.android.library'
 
 android {
     compileSdkVersion 31
+    namespace "org.capslock.RNDeviceBrightness"
 
     defaultConfig {
         minSdkVersion 21
