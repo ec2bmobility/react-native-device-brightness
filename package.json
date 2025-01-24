@@ -17,8 +17,7 @@
   ],
   "author": "Adrian So <adrian@sld.co.nz> (https://github.com/adrianso)",
   "license": "MIT",
-  "main": "lib/index.js",
-  "types": "lib/index.d.ts",
+  "main": "index.ts",
   "scripts": {
     "prepublish": "tsc",
     "lint": "eslint '**/*.{ts,tsx}'"
